@@ -1,0 +1,1 @@
+-- Disables Health regen for some ungodly reason --

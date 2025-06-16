@@ -1,0 +1,26 @@
+--local part = workspace:WaitForChild("DamageTest")
+--local damaging = false 
+--local UIS = game:GetService("UserInputService")
+--local keysPressed = {}
+--local touching = false
+--local holding = false
+--local player = game:GetService("Players").LocalPlayer
+--local count = 0
+
+--part.Touched:Connect(function(hit)
+--	local h = hit.Parent:FindFirstChild("Humanoid")
+--	if h and not damaging then
+--		damaging = true
+--		repeat
+--			print("bleh")
+--			h:TakeDamage(1)
+--			count += 0.01
+--			wait(0.001)
+--		until not part:IsDescendantOf(game) or not h or h.Health <= 0 or not damaging
+--		print(count)
+--	end
+--end)
+
+--part.TouchEnded:Connect(function()
+--	damaging = false
+--end)

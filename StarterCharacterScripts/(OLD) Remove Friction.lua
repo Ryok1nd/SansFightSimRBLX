@@ -1,0 +1,3 @@
+--local character = script.Parent
+--local humanoid = character:WaitForChild("HumanoidRootPart")
+--humanoid.CustomPhysicalProperties = PhysicalProperties.new(100, 1, 0, 1, 1)
