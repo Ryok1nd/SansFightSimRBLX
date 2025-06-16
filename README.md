@@ -12,11 +12,11 @@ A demo of an Undertale combat engine inside Roblox. This project recreates the f
   - Sans Bone Gap 1
   - Sans Blue Bone 1
 - Undertale Movement
-  - `Red heart/Free roam movement`
-  - `Blue heart/Gravity movement`
+  - Red heart/Free roam movement
+  - Blue heart/Gravity movement
 - Different hit types
-  - `Normal hit. When player touches, they take damage`
-  - `Blue hit. When player moves while touching, they take damage`
+  - Normal hit. When player touches, they take damage
+  - Blue hit. When player moves while touching, they take damage
 
 #### File Structure
 - `ServerScriptService/` - contains all Lua scripts for Sans attacks and hit detection on the server-side
